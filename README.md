@@ -1,6 +1,6 @@
 # Spectral Surfing Calibration
-### By : Jeremy Porquez
-### Requirements : Python 2 or 3, PyQt5, matplotlib, pandas
+By : Jeremy Porquez
+Requirements : Python 2 or 3, PyQt5, matplotlib, pandas
 ### Execution : 
 ###  1. python SpectralSurfingGenerator.py
 ###  2. load spectrogram
