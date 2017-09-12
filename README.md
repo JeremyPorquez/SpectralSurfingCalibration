@@ -3,11 +3,13 @@ By : Jeremy Porquez <br>
 Requirements : Python 2 or 3, PyQt5, matplotlib, pandas <br>
 <br>
 Execution : <br>
-<ol> python SpectralSurfingGenerator.py
-<ol> load spectrogram
-<ol> fine tune pump wavelength, cutoff wavelength
-<ol> save as "some_file_name.csv"
-<ol> save an image if desired
+<ol> 
+  <li> python SpectralSurfingGenerator.py
+  <li> load spectrogram
+  <li> fine tune pump wavelength, cutoff wavelength
+  <li> save as "some_file_name.csv"
+  <li> save an image if desired
+</ol>
 <br>
 Note : <br>
   "Execute" button is for diagnostics or some extra "dev" commands
