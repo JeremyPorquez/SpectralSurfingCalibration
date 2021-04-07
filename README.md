@@ -1,5 +1,4 @@
 # Spectral Surfing Calibration
-By : Jeremy Porquez <br>
 Requirements : Python 2 or 3, PyQt5, matplotlib, pandas <br>
 <br>
 Execution : <br>
